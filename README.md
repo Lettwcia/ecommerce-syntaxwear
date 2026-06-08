@@ -74,3 +74,4 @@ images/
 Projeto livre para uso e aprendizado.
 =======
 
+git clone https://github.com/Lettwcia/E-commerce-SyntaxWear.git
